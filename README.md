@@ -1,2 +1,28 @@
-# Goal-flow
-"Goal flow is a Python-Tkinter application that helps users create, organize, and manage, career goals with step-by-step tasks.It allows adding, viewing, and deleting goals and their tasks through  an intuitive GUI. All updates reflect instantly, making it a simple and effective personal career planning tool."
+#CareerPath Planner
+"CareerPath Planner is a simple Python-Tkinter app that helps users organize their career goals and the tasks needed to achieve them. Users can add goals, assign tasks, view them, and delete items through a clean and responsive GUI."
+Features
+
+Add goals and tasks
+
+Delete goals or tasks
+
+Auto-update task list
+
+Clean Tkinter interface
+
+How to Run
+
+python careerpath.py
+
+Tech Used
+
+Python 3 • Tkinter
+
+Author
+
+Chinthala Udhayasri
+
+
+---
+
+If you want it even shorter, tell me!
