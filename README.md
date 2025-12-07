@@ -23,6 +23,3 @@ Author
 Chinthala Udhayasri
 
 
----
-
-If you want it even shorter, tell me!
